@@ -1,3 +1,15 @@
 baseURL = 'https://geny7i.dev/'
 languageCode = 'ja'
 title = 'geny7i.dev'
+theme= 'github-style'
+
+[params]
+  author = "geny7i"
+  description = "Describe classy comments here."
+  github = "geny7i"
+  twitter = "geny7i"
+  rss = true
+  lastmod = true
+  userStatusEmoji = "🥰"
+  favicon = "/images/github.png"
+  location = "Japan"
