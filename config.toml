@@ -1,7 +1,9 @@
 baseURL = 'https://geny7i.dev/'
 languageCode = 'ja'
+DefaultContentLanguage = "ja"
 title = 'geny7i.dev'
 theme= 'github-style'
+lastmod = true
 
 [params]
   author = "geny7i"
