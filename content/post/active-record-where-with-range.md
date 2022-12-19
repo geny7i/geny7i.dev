@@ -1,6 +1,6 @@
 ---
 title: "ActiveRecordの範囲検索で無限大/無限小を扱う"
-date: 2022-12-09T19:06:26+09:00
+date: 2022-12-10T19:06:26+09:00
 tags: ["Rails"]
 draft: false
 ---
